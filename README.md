@@ -10,5 +10,6 @@
 * Open Localhost:3000
 * login as 
    user = "admin"
-   pass = "admin"
+   pass = "admin" for admin access
+* for user access login to any department listed with any password
 ```
